@@ -1,0 +1,20 @@
+{
+  "name": "vue-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laelacitrasih/vue-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laelacitrasih/vue-challenge/issues"
+  },
+  "homepage": "https://github.com/laelacitrasih/vue-challenge#readme"
+}
